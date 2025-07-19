@@ -1,0 +1,29 @@
+#padre{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(219, 187, 138);
+    display: flex;
+    justify-content: center;
+}
+.hijo{
+    display: flex;
+}
+
+body{
+    text-align: center;
+    
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+p{
+    font-weight: bold;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: lighter;
+}
